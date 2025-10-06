@@ -1,1 +1,1 @@
-# Chest-X-ray-Disease-Detection
+MLP-vs-CNN-Classification-Problem
